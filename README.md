@@ -1,4 +1,4 @@
-# BingeVisa - Full-stack OTT platform
+# BingeVista - Full-stack OTT platform
 
 ## Steps to Start the App
 
